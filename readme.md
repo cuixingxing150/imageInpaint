@@ -4,7 +4,7 @@
 
 | 原图                         | label                       | result |
 | ---------------------------- | --------------------------- | ------ |
-| ![](/images/1.jpg) | ![](/images/5.jpg) | ![](/images/3.jpg)        |
+| ![](/1.jpg) | ![](/5.jpg) | ![](/3.jpg)        |
 
 
 # Implementation detail
